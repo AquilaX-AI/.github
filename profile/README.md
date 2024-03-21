@@ -13,10 +13,18 @@ Visit our public website [here](https://app.aquilax.io/) to explore our offering
 - **API Documentation**: Swager [here](https://app.aquilax.io/redoc)
 - **API Documentation**: Redocly [here](https://app.aquilax.io/redoc)
 - **Release Notes**: Redocly [here](https://app.aquilax.io/release-notes)
+- **Blog**: [Medium](https://aquilax-security.medium.com/)
 
 ## Contact AquilaX
-- [form](https://aquilax.io/contact-us.html)
+- [Form](https://aquilax.io/contact-us.html)
 - [Sales team](https://calendly.com/aquilax/30min)
 - [Report a issue](https://uptime.betterstack.com/report/QK1Vyg2gkGYXXe8YDePQpuyX)
+
+## Contact AquilaX
+- [Public WebSite](https://aquilax.io/)
+- [LinkedIn Page](https://www.linkedin.com/company/aquilax-security/)
+- [X - Twitter](https://twitter.com/AquilaXSecurity)
+- [Blog](https://aquilax-security.medium.com/)
+
 
 Stay secure with AquilaX - Simplify your security solutions!
