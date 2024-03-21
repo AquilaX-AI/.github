@@ -15,8 +15,8 @@ Visit our public website [here](https://app.aquilax.io/) to explore our offering
 - **Release Notes**: Redocly [here](https://app.aquilax.io/release-notes).
 
 ## Contact AquilaX
-- [form][https://aquilax.io/contact-us.html)
-- [Sales team][https://calendly.com/aquilax/30min)
-- [Report a issue][https://uptime.betterstack.com/report/QK1Vyg2gkGYXXe8YDePQpuyX)
+- [form](https://aquilax.io/contact-us.html)
+- [Sales team](https://calendly.com/aquilax/30min)
+- [Report a issue](https://uptime.betterstack.com/report/QK1Vyg2gkGYXXe8YDePQpuyX)
 
 Stay secure with AquilaX - Simplify your security solutions!
