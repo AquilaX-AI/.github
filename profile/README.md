@@ -1,4 +1,4 @@
-# AquilaX - Application Security Solutions
+# AquilaX - Application Security via GenAI
 
 Welcome to AquilaX, your easy-to-use solution for Application Security Scanners! 
 
