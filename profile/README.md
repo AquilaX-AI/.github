@@ -1,9 +1,9 @@
 # AquilaX - Application Security Solutions
 
-Welcome to AquilaX, your comprehensive solution for Application Security Scanners! 
+Welcome to AquilaX, your easy-to-use solution for Application Security Scanners! 
 
 ## About Us
-AquilaX offers a user-friendly suite of security solutions including Static Application Security Testing (SAST), Software Composition Analysis (SCA), Container Scanning, Infrastructure Scanning, and more.
+AquilaX offers a user-friendly suite of security solutions including Static Application Security Testing (SAST), Software Composition Analysis (SCA), Container Scanning, Infrastructure Scanning, API Security, and more.
 
 ## Website
 Visit our public website [here](https://app.aquilax.io/) to explore our offerings and services.
@@ -19,8 +19,9 @@ Visit our public website [here](https://app.aquilax.io/) to explore our offering
 - [Form](https://aquilax.io/contact-us.html)
 - [Sales team](https://calendly.com/aquilax/30min)
 - [Report a issue](https://uptime.betterstack.com/report/QK1Vyg2gkGYXXe8YDePQpuyX)
+- [GitHub Discussions](https://github.com/orgs/AquilaX-Security/discussions)
 
-## Contact AquilaX
+## Social Links
 - [Public WebSite](https://aquilax.io/)
 - [LinkedIn Page](https://www.linkedin.com/company/aquilax-security/)
 - [X - Twitter](https://twitter.com/AquilaXSecurity)
