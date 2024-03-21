@@ -9,10 +9,10 @@ AquilaX offers a user-friendly suite of security solutions including Static Appl
 Visit our public website [here](https://app.aquilax.io/) to explore our offerings and services.
 
 ## Documentation
-- **User Manual**: Find detailed instructions and guidance in our [User Manual](https://aquilax.io/userManual/index.html).
-- **API Documentation**: Swager [here](https://app.aquilax.io/redoc).
-- **API Documentation**: Redocly [here](https://app.aquilax.io/redoc).
-- **Release Notes**: Redocly [here](https://app.aquilax.io/release-notes).
+- **User Manual**: Find detailed instructions and guidance in our [User Manual](https://aquilax.io/userManual/index.html)
+- **API Documentation**: Swager [here](https://app.aquilax.io/redoc)
+- **API Documentation**: Redocly [here](https://app.aquilax.io/redoc)
+- **Release Notes**: Redocly [here](https://app.aquilax.io/release-notes)
 
 ## Contact AquilaX
 - [form](https://aquilax.io/contact-us.html)
