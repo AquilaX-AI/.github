@@ -10,6 +10,13 @@ Visit our public website [here](https://app.aquilax.io/) to explore our offering
 
 ## Resources
 - **User Manual**: Find detailed instructions and guidance in our [User Manual](https://aquilax.io/userManual/index.html).
-- **API Documentation**: Access our API Documentation [here](https://app.aquilax.io/redoc).
+- **API Documentation**: Swager [here](https://app.aquilax.io/redoc).
+- **API Documentation**: Redocly [here](https://app.aquilax.io/redoc).
+- **API Documentation**: Redocly [here](https://app.aquilax.io/https://app.aquilax.io/redoc).
+- **Release Notes**: Redocly [here](https://app.aquilax.io/release-notes).
+- **Service Status**: [AquilaX Status Page](https://status.aquilax.io/)
+
 
 Stay secure with AquilaX - Simplify your security solutions!
+
+
