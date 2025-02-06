@@ -1,31 +1,23 @@
-# AquilaX - Application Security via GenAI
+# 🛠️ AquilaX – AI-Powered Security for Hackers Who Build  
 
-Welcome to AquilaX, your easy-to-use solution for Application Security Scanners! 
+AquilaX is an **AI-driven security engine** designed for **developers who care about security** but don’t want to waste time chasing false positives. It runs **multiple security scanners in parallel**, filters out the noise, and gives you **real vulnerabilities** with **real fixes**—all while staying out of your way.  
 
-## About Us
-AquilaX offers a user-friendly suite of security solutions including Static Application Security Testing (SAST), Software Composition Analysis (SCA), Container Scanning, Infrastructure Scanning, API Security, and more.
+## ⚡ How It Works  
+🕵️ **Scans Everything** – Code, dependencies, APIs, infra, containers, secrets, and more.  
+🧠 **AI Filters Out the Junk** – No more drowning in **false positives**.  
+🤖 **Automates Fixes** – Get **remediation suggestions** or **auto-generated pull requests**.  
+🔗 **Plugs Into Your Stack** – GitHub, GitLab, BitBucket, CI/CD, CLI, and APIs.  
+💨 **Runs Fast, Works Quietly** – Security shouldn’t slow you down.  
 
-## Website
-Visit our public website [here](https://app.aquilax.io/) to explore our offerings and services.
+## 🚀 Why Developers Like It  
+- **Security without the BS** – Less noise, more action.  
+- **Works Where You Work** – Integrates seamlessly into your existing **DevSecOps pipeline**.  
+- **Smart Enough to Learn** – AI adapts to your project over time.  
+- **Flexible Deployment** – SaaS, dedicated, or fully on-prem.  
 
-## Documentation
-- **Tech Documentation**: Find detailed instructions and guidance in our [Docs](https://docs.aquilax.ai)
-- **API Documentation**: Swager [here](https://app.aquilax.ai/redoc)
-- **API Documentation**: Redocly [here](https://app.aquilax.ai/redoc)
-- **Release Notes**: Redocly [here](https://app.aquilax.ai/release-notes)
-- **Blog**: [Medium](https://aquilax-security.medium.com/)
+## 🔗 Get Started  
+- 🛠️ **Scan Your Code Now** → [AquilaX](https://aquilax.ai)  
+- 📖 **Read the Docs** → [Documentation](https://docs.aquilax.ai)  
+- 🤝 **Contribute & Chat** → [GitHub](https://github.com/AquilaX-AI) | [LinkedIn](https://www.linkedin.com/company/aquilax-ai)  
 
-## Contact AquilaX
-- [Form](https://aquilax.ai/contact-us.html)
-- [Sales team](https://calendly.com/aquilax/30min)
-- [Report a issue](https://uptime.betterstack.com/report/QK1Vyg2gkGYXXe8YDePQpuyX)
-- [GitHub Discussions](https://github.com/orgs/AquilaX-Security/discussions)
-
-## Social Links
-- [Public WebSite](https://aquilax.ai/)
-- [LinkedIn Page](https://www.linkedin.com/company/aquilax-ai/)
-- [X - Twitter](https://twitter.com/AquilaXSecurity)
-- [Blog](https://aquilax-security.medium.com/)
-
-
-Stay secure with AquilaX - Simplify your security solutions!
+_Ship fast. Stay secure. Automate the boring stuff._ 🔥  
